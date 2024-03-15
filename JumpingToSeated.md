@@ -33,4 +33,4 @@ From the crouch position, do the following:
 
 4. Lead with your feet but steer with your hips, using your core to drive your hips and legs forward and through the arms. 
 
-
+## Method B: High hips, folded legs
