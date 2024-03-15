@@ -34,3 +34,10 @@ From the crouch position, do the following:
 4. Lead with your feet but steer with your hips, using your core to drive your hips and legs forward and through the arms. 
 
 ## Method B: High hips, folded legs
+
+From the crouch position, do the following:
+
+1. Spring your hips in an arcing motion until they are directly over your shoulders.
+
+2. At the top of the arc, fold your legs, cross your shins and tuck them close your body until they are a unit.
+
