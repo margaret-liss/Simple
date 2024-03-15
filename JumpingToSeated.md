@@ -37,7 +37,7 @@ From the crouch position, do the following:
 
 From the crouch position, do the following:
 
-1. Spring your hips in an arcing motion until they are directly over your shoulders.
+1. Spring your hips up in an arcing path until they are directly over your shoulders.
 
 2. At the top of the arc, fold your legs, cross your shins and tuck them close your body until they are a unit.
 
