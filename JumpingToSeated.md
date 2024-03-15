@@ -27,9 +27,9 @@ From the crouch position, do the following:
 
 1. Look forward.  See where you're going.  Keep looking there.
 
-2. Release your coil, pushing off your feet, straightening your legs. 
+2. Release your coil, pushing off your feet, straightening your legs, letting your hips arc up a bit. 
 
-3. As soon as your feet leave the ground, connect your thighs to your low belly straigen your legs. Keep them connected. TIP: Stick a folded blanket between your thighs and belly.  Don't let it slip out.
+3. At the top of your arc, keep those hip tucked and bring the legs to the chest as your moment shoots you foward.
 
 4. Lead with your feet but steer with your hips, using your core to drive your hips and legs forward and through the arms. 
 
