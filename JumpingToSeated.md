@@ -41,6 +41,9 @@ From the crouch position, do the following:
 
 2. At the top of the arc, fold your legs, cross your shins and tuck them close your body until they are a unit.
 
+3. Arc your belly-leg compact unit under and forward, through your arms.
+ 
+
 # Exercise 12: Merging Branches
 For this exercise, you will create branches and merge them back into master, first with no conflict, and then with a conflict to resolve. Unlike previous exercises, I will not give you exact instructions. It is up to you to figure out how to do the steps.
 
@@ -70,4 +73,3 @@ master  new branch
 20. Do a git pull to bring in the changes.
 21. Go to your editor and verify that you are now seeing the changes from both the master branch and the new branch.
 22. Finally, delete your new branch locally using git branch -d branch-name where branch-name is the name of the branch you created.
-
