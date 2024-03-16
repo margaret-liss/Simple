@@ -27,9 +27,9 @@ From the crouch position, do the following:
 
 1. Look forward.  See where you're going.  Keep looking there.
 
-2. Release your coil, pushing off your feet, straightening your legs, letting your hips arc up a bit. 
+2. Release your coil, pushing off your feet, straightening your legs, letting your hips arc up a bit. Quickly execute the next step.
 
-3. At the top of your arc, keep those hip tucked and bring the legs to the chest as your momentum shoots you forward.
+3. At the top of your arc, with those hip tucked, quickly close the legs to the chest and let momentum shoot your feet through your arms.
 
 4. Lead with your feet but steer with your hips, using your core to drive your hips and legs forward and through the arms. 
 
