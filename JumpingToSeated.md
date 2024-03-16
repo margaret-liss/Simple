@@ -41,3 +41,5 @@ From the crouch position, do the following:
 
 2. At the top of the arc, fold your legs, cross your shins and tuck them close your body until they are a unit.
 
+3. Arc your belly-leg compact unit under and forward, through your arms.
+
