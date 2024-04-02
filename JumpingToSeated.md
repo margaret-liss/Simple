@@ -44,32 +44,4 @@ From the crouch position, do the following:
 3. Arc your belly-leg compact unit under and forward, through your arms.
  
 
-# Exercise 12: Merging Branches
-For this exercise, you will create branches and merge them back into master, first with no conflict, and then with a conflict to resolve. Unlike previous exercises, I will not give you exact instructions. It is up to you to figure out how to do the steps.
 
-## Merge without conflict
-1. In your terminal console, create a new branch and switch to it. You get to choose the name.
-2. In your editor, make a change to one or more lines in docs.md, but not all of them.
-3. In the terminal console, add, commit, and push. Remember that git push origin will fail, but will return the full command you need to create a branch on GitHub and upload the changes.
-4. Change to the master branch.
-5. In your editor, note that your changes are no longer there. Make one or more changes to lines that you did not change in your branch. In other words, your branch should have changed certain lines, but the master branch should change different lines.
-6. In the terminal console, add, commit, and push.
-7. Open up GitHub in your browser. Verify that you can switch branches, and you can see the appropriate differences in the master branch and your new branch.
-8. Click on the exercise link to return to the top level of the repository.
-9. Create a merge request from your new branch into master by clicking New pull request.
-10. Leave the base as master, but change the compare to your new branch so that it shows:
-
-master  new branch
-
-11. Add a description in the Write tab.
-12. Click Create pull request. You should see a message that there are no conflicts, since you did not make changes in the two different branches to the same line.
-13. Click on Files changed near the top to review the changes.
-14. Click on Review changes and add a comment to a change. Click Submit review to submit.
-15. Click on Conversation near the top to get back to the pull request page.
-16. Everything looks good, so click on Merge pull request to start the merge.
-17. Click Confirm merge to make it happen.
-18. If successful, click Delete branch to remove it from GitHub.
-19. Return to your terminal console. If you aren’t already in the master branch, move to it.
-20. Do a git pull to bring in the changes.
-21. Go to your editor and verify that you are now seeing the changes from both the master branch and the new branch.
-22. Finally, delete your new branch locally using git branch -d branch-name where branch-name is the name of the branch you created.
