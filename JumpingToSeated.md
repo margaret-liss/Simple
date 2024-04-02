@@ -9,13 +9,13 @@ A. Low hips, straight legs
 B. High hips, folded legs.
 
 ## Prerequisites
-A.  To perform either method successfully, you must have sufficient hamstring flexibility, and hip, abdominal/core, and shoulder strength to connect your upper thighs with your lower belly, unite them, and arc that unit through a portal essentially as long as your arms and as wide as your shoulders. Here are a few tests to see if you meet those prerequisites:
+1.  To perform either method successfully, you must have sufficient hamstring flexibility, and hip, abdominal/core, and shoulder strength to connect your upper thighs with your lower belly, unite them, and arc that unit through a portal essentially as long as your arms and as wide as your shoulders. Here are a few tests to see if you meet those prerequisites:
 
 
-1. From standing, fold forward to the extent that you can touch your chest to your thighs, fairly tightly.  You want to be like a hair pin. This requires hamstring/back-body flexibility and hip flexor contraction.
-2. From seated, press your hands into the floor by your hips, and lift your self (or butt, at a min) up off the ground using the strength of your shoulders and core. Try it with straight legs and sitting on your shins. Notice that you also have to contract your abdominals and hip flexors, and protract your shoulders to clear the floor.  
+    1. From standing, fold forward to the extent that you can touch your chest to your thighs, fairly tightly.  You want to be like a hair pin. This requires hamstring/back-body flexibility and hip flexor contraction.
+    2. From seated, press your hands into the floor by your hips, and lift your self (or butt, at a min) up off the ground using the strength of your shoulders and core. Try it with straight legs and sitting on your shins. Notice that you also have to contract your abdominals and hip flexors, and protract your shoulders to clear the floor.  
 
-B.  You must be sufficiently warmed up, especially for Method A, to avoid getting hurt.  I often don't attempt A until I get to Marichyasanas.  The intense hip flexion of Marichyasana primes the body for that hip-chest connection.  
+2.  You must be sufficiently warmed up, especially for Method A, to avoid getting hurt.  I often don't attempt A until I get to Marichyasanas.  The intense hip flexion of Marichyasana primes the body for that hip-chest connection.  
 
 ## Starting position: The Crouch and Spring 
 The starting position for both methods A and B is the same: the crouch and spring.
